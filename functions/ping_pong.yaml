@@ -3,13 +3,13 @@ description: Returns pong to a ping over http
 tags: []
 source: .
 trigger:
-    type: https
+    type: http
     method: GET
     paths:
         - /ping
 domains:
     - GeneratedDomain
 execution:
-    timeout: 10s
-    memory: 10MB
+    timeout: 20s
+    memory: 20MB
     call: ping
