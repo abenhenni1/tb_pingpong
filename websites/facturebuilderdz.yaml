@@ -1,11 +1,11 @@
-id: Qmbi86tEoEEBLqYwCF936VWzLprfHKPrNR4JtYTGwgLGab
+id: QmdxKsrgDq3m9aRtcq9iNs95HW1LmqMZ1n7qgLd3bjEUat
 description: ""
 tags: []
 domains:
     - facturebuilder
 source:
     paths:
-        - /index.html
+        - /dist
     branch: main
     github:
         id: 1224085609
