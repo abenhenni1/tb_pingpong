@@ -5,7 +5,7 @@ domains:
     - facturebuilder
 source:
     paths:
-        - /
+        - /index.html
     branch: main
     github:
         id: 1224085609
